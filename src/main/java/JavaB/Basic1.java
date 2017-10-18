@@ -10,6 +10,7 @@ public class Basic1 {
         int a = 2;
         int b = 3;
         int sum = a + b;
+        int c=8;
 
         System.out.println(sum);
     }
