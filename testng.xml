@@ -1,0 +1,14 @@
+<suite name="Test Demo">
+
+    <test name="Test Demo 1">
+
+        <classes>
+            <class name="Inceput.ChromeTest"></class>
+
+
+
+        </classes>
+
+    </test>
+
+</suite>
