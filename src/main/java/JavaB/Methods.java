@@ -5,7 +5,8 @@ package JavaB;
  */
 public class Methods {
 
-    public void ValidateHeader(){
+    public int ValidateHeader(){
         System.out.println("Header links were validatet");
+        return 2;
     }
 }

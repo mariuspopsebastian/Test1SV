@@ -8,7 +8,8 @@ public class Parent {
         System.out.println("I navigated to the home page");
 
         Methods m = new Methods();
-        m.ValidateHeader();
+        System.out.println(m.ValidateHeader());
         //classobject.methodname
+
     }
 }
